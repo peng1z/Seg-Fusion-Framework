@@ -1,0 +1,3 @@
+ISIC 2020 dataset is available at: https://challenge2020.isic-archive.com
+ISIC 2019 dataset is available at: https://challenge.isic-archive.com/data/#2019
+HAM10000 dataset is available at: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
